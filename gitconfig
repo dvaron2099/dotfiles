@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = varondavid20@gmail.com
+	name = david varon
